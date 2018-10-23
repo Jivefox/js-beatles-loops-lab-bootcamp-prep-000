@@ -12,7 +12,6 @@ function johnLennonFacts(facts) {
     i = i++;
   while (facts.length > 0) {
     facts[i] = facts[i] + '!!!'
-    
 }
 }
 return facts;
