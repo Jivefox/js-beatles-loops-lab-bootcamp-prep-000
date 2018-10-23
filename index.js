@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   function incrementValue () {
     i = i++;
   while (facts.length > 0) {
-    console.log (`${facts[i]} + '!!!'`);
+    facts.push (`${facts[i]} + '!!!'`);
 }
 }
 return facts;
