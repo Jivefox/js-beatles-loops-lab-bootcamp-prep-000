@@ -21,5 +21,5 @@ function iLoveTheBeatles(n) {
     array = ['I love the Beatles!']
     n++;
   } while (n < 15);
+  return array()
 }
-return array()
