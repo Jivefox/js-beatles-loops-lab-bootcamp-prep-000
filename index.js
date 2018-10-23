@@ -18,6 +18,6 @@ return facts;
 function iLoveTheBeatles(n) {
   var array = [ ]
   do {
-    n++
-  } while (n < 15)
+    n++;
+  } while (n < 15);
 }
